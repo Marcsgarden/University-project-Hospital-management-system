@@ -16,7 +16,7 @@ This project is a **Hospital Management System written in C++**, simulating the 
 - **Linked Lists** for storing entities dynamically.
 
 ## 📂 Project Structure
-
+📦 Hospital-Management-System ┣ 📜 main.cpp # Entry point of the program ┣ 📜 proj.cpp # Class implementations ┣ 📜 proj.h # Class definitions ┣ 📜 README.md # Documentation 
 
 ## 🚀 How to Run
 
